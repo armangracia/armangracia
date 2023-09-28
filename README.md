@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-image-url-here" alt="Your Name">
+  <img src="your-profile-image-url-here" alt="werewolf IT">
 </p>
 
 <h1 align="center">👋 Hi, I'm Arman Steven D. Gracia </h1>
 
-<!-- Badges -->
+<!-- Badges -->IT.jpg
 <p align="center">
   <img src="https://img.shields.io/badge/-Tech%20Enthusiast-blue" alt="Tech Enthusiast">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-yellow" alt="Full Stack Developer">
