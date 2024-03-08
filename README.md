@@ -1,16 +1,14 @@
 <!-- Header -->
-<p align="center">
-  <img src="your-profile-image-url-here" alt="werewolf IT">
-</p>
+<div style="text-align: center;">
+    <iframe src="https://imgur.com/a/AtWbTUz/embed?pub=true"></iframe>
+</div>
+
 
 <h1 align="center">👋 Hi, I'm Arman Steven D. Gracia </h1>
 
 <!-- Badges -->IT.jpg
 <p align="center">
   <img src="https://img.shields.io/badge/-Tech%20Enthusiast-blue" alt="Tech Enthusiast">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-yellow" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/-Open%20Source%20Advocate-green" alt="Open Source Advocate">
-  <img src="https://img.shields.io/badge/-Code%20Artisan-orange" alt="Code Artisan">
 </p>
 
 <!-- About Me -->
@@ -23,16 +21,15 @@
 </p>
 
 <!-- Skills -->
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">🚀 Skills (Working on it) </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-blue" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React.js-blue" alt="React.js">
-  <img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Python-blue" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-green" alt="Django">
+  <img src="https://img.shields.io/badge/-PHP-blue" alt="PHP">
+  <img src="https://img.shields.io/badge/-C++-orange" alt="C++">  
 </p>
 
 <!-- My Projects -->
@@ -40,9 +37,9 @@
 
 <!-- Add your projects here with links and descriptions -->
 <p align="center">
-  🌐 [Project Name](https://github.com/yourusername/project) - A brief description of the project.
+  🌐 A Youth Empowerment Hub - Soon to be Uploaded.
   <br>
-  📁 [Another Project](https://github.com/yourusername/another-project) - Another cool project I worked on.
+ <!-- 📁 [Another Project](https://github.com/yourusername/another-project) - Another cool project I worked on. -->
 </p>
 
 <!-- Let's Connect -->
