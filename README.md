@@ -1,7 +1,5 @@
 <!-- Header -->
-<div style="text-align: center;">
-    <iframe src="https://imgur.com/a/AtWbTUz/embed?pub=true"></iframe>
-</div>
+
 
 
 <h1 align="center">👋 Hi, I'm Arman Steven D. Gracia </h1>
